@@ -9,6 +9,10 @@
   :content
   "An atomic fact in the database, associating an <a href=\"/pro/glossary.html#entity\">entity</a>, <a href=\"/pro/glossary.html#attribute\">attribute</a>, <a href=\"/pro/glossary.html#value\">value</a>, and a <a href=\"/pro/glossary.html#tx\">tx</a>. Opposite of a <a href=\"/pro/glossary.html#retraction\">retraction</a>."}
 
+ @@html: <object data="../images/jaretAPI.svg" width="1000" type="image/svg+xml">@@
+
+
+
  :attribute
  {:title "Attribute"
   :content
