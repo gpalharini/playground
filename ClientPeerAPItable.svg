@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="169 -1999.339 841.5 704.2656" width="841.5" height="704.2656">
+  <defs/>
+  <g id="Canvas_1" fill="none" stroke-dasharray="none" stroke="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="#a5a5a5" x="184" y="-1985" width="812" height="675"/>
+    <g id="Canvas_1_Layer_2">
+      <title>Layer 2</title>
+      <g id="Group_246">
+        <g id="Graphic_293">
+          <rect x="725" y="-1348.6985" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1348.6985" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1338.3977)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">No</tspan>
+          </text>
+        </g>
+        <g id="Graphic_292">
+          <rect x="455" y="-1348.6985" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1348.6985" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1338.3977)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Yes</tspan>
+          </text>
+        </g>
+        <g id="Graphic_291">
+          <rect x="185" y="-1348.6985" width="270" height="38.125" fill="#f5f3f7"/>
+          <rect x="185" y="-1348.6985" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1338.3977)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Predicate filters</tspan>
+          </text>
+        </g>
+        <g id="Graphic_290">
+          <rect x="185" y="-1393.7454" width="270" height="45.046875" fill="#f5f3f7"/>
+          <rect x="185" y="-1393.7454" width="270" height="45.046875" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1379.9836)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Partition control</tspan>
+          </text>
+        </g>
+        <g id="Graphic_289">
+          <rect x="725" y="-1393.7454" width="270" height="45.046875" fill="white"/>
+          <rect x="725" y="-1393.7454" width="270" height="45.046875" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1379.9836)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Implicit partitions</tspan>
+          </text>
+        </g>
+        <g id="Graphic_288">
+          <rect x="455" y="-1393.7454" width="270" height="45.046875" fill="white"/>
+          <rect x="455" y="-1393.7454" width="270" height="45.046875" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1388.7454)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Implicit partitions and explicit </tspan>
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="31.523438" xml:space="preserve">partitions</tspan>
+          </text>
+        </g>
+        <g id="Graphic_287">
+          <rect x="455" y="-1431.8704" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1431.8704" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1421.5696)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Yes</tspan>
+          </text>
+        </g>
+        <g id="Graphic_286">
+          <rect x="725" y="-1431.8704" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1431.8704" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1421.5696)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">No</tspan>
+          </text>
+        </g>
+        <g id="Graphic_285">
+          <rect x="185" y="-1431.8704" width="270" height="38.125" fill="#f5f3f7"/>
+          <rect x="185" y="-1431.8704" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1421.5696)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Lazy entities</tspan>
+          </text>
+        </g>
+        <g id="Graphic_284">
+          <rect x="455" y="-1494.4407" width="270" height="62.57031" fill="white"/>
+          <rect x="455" y="-1494.4407" width="270" height="62.57031" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1471.9172)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">In order submitted from a peer</tspan>
+          </text>
+        </g>
+        <g id="Graphic_283">
+          <rect x="725" y="-1494.4407" width="270" height="62.57031" fill="white"/>
+          <rect x="725" y="-1494.4407" width="270" height="62.57031" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1489.4407)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">In order acknowledged (might vary </tspan>
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="31.523438" xml:space="preserve">from the submission order if client </tspan>
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="49.046875" xml:space="preserve">reaches different server)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_282">
+          <rect x="185" y="-1494.4407" width="270" height="62.57031" fill="#f5f3f7"/>
+          <rect x="185" y="-1494.4407" width="270" height="62.57031" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1471.9172)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Transaction ordering</tspan>
+          </text>
+        </g>
+        <g id="Graphic_281">
+          <rect x="185" y="-1532.5657" width="270" height="38.125" fill="#e2e0e3"/>
+          <rect x="185" y="-1532.5657" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1531.0266)" fill="black">
+            <tspan font-family="Arial" font-weight="bold" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Operations where peer API has </tspan>
+            <tspan font-family="Arial" font-weight="bold" font-size="16" fill="black" x="0" y="31.523438" xml:space="preserve">extended capability</tspan>
+          </text>
+        </g>
+        <g id="Graphic_280">
+          <rect x="455" y="-1532.5657" width="270" height="38.125" fill="#e2e0e3"/>
+          <rect x="455" y="-1532.5657" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_279">
+          <rect x="725" y="-1532.5657" width="270" height="38.125" fill="#e2e0e3"/>
+          <rect x="725" y="-1532.5657" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_278">
+          <rect x="455" y="-1570.6907" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1570.6907" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1560.3899)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">As-of, since, history</tspan>
+          </text>
+        </g>
+        <g id="Graphic_277">
+          <rect x="725" y="-1570.6907" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1570.6907" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1560.3899)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">As-of, since, history</tspan>
+          </text>
+        </g>
+        <g id="Graphic_276">
+          <rect x="185" y="-1570.6907" width="270" height="38.125" fill="#f5f3f7"/>
+          <rect x="185" y="-1570.6907" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1560.3899)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Time filters</tspan>
+          </text>
+        </g>
+        <g id="Graphic_275">
+          <rect x="185" y="-1608.8157" width="270" height="38.125" fill="#f5f3f7"/>
+          <rect x="185" y="-1608.8157" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1598.5149)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Index access</tspan>
+          </text>
+        </g>
+        <g id="Graphic_274">
+          <rect x="725" y="-1608.8157" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1608.8157" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1598.5149)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">EAVT, AEVT, AVET, VAET</tspan>
+          </text>
+        </g>
+        <g id="Graphic_273">
+          <rect x="455" y="-1608.8157" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1608.8157" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1598.5149)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">EAVT, AEVT, AVET, VAET</tspan>
+          </text>
+        </g>
+        <g id="Graphic_272">
+          <rect x="185" y="-1646.9407" width="270" height="38.125" fill="#f5f3f7"/>
+          <rect x="185" y="-1646.9407" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1636.6399)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Query and pull</tspan>
+          </text>
+        </g>
+        <g id="Graphic_271">
+          <rect x="725" y="-1646.9407" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1646.9407" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1636.6399)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Yes</tspan>
+          </text>
+        </g>
+        <g id="Graphic_270">
+          <rect x="455" y="-1646.9407" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1646.9407" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1636.6399)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Yes</tspan>
+          </text>
+        </g>
+        <g id="Graphic_269">
+          <rect x="185" y="-1685.0657" width="270" height="38.125" fill="#f5f3f7"/>
+          <rect x="185" y="-1685.0657" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1674.7649)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Transactions</tspan>
+          </text>
+        </g>
+        <g id="Graphic_268">
+          <rect x="725" y="-1685.0657" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1685.0657" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1674.7649)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Yes</tspan>
+          </text>
+        </g>
+        <g id="Graphic_267">
+          <rect x="455" y="-1685.0657" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1685.0657" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1674.7649)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Yes</tspan>
+          </text>
+        </g>
+        <g id="Graphic_266">
+          <rect x="455" y="-1723.1907" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1723.1907" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1712.8899)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Yes</tspan>
+          </text>
+        </g>
+        <g id="Graphic_265">
+          <rect x="185" y="-1723.1907" width="270" height="38.125" fill="#f5f3f7"/>
+          <rect x="185" y="-1723.1907" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1712.8899)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Catalog operations</tspan>
+          </text>
+        </g>
+        <g id="Graphic_264">
+          <rect x="725" y="-1723.1907" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1723.1907" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1712.8899)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Yes</tspan>
+          </text>
+        </g>
+        <g id="Graphic_263">
+          <rect x="455" y="-1761.3157" width="270" height="38.125" fill="#e2e0e3"/>
+          <rect x="455" y="-1761.3157" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_262">
+          <rect x="185" y="-1761.3157" width="270" height="38.125" fill="#e2e0e3"/>
+          <rect x="185" y="-1761.3157" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1751.0149)" fill="black">
+            <tspan font-family="Arial" font-weight="bold" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Common core operations</tspan>
+          </text>
+        </g>
+        <g id="Graphic_261">
+          <rect x="725" y="-1761.3157" width="270" height="38.125" fill="#e2e0e3"/>
+          <rect x="725" y="-1761.3157" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_260">
+          <rect x="455" y="-1799.4407" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1799.4407" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1789.1399)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Synchronous only</tspan>
+          </text>
+        </g>
+        <g id="Graphic_259">
+          <rect x="725" y="-1799.4407" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1799.4407" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1789.1399)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Sync or async</tspan>
+          </text>
+        </g>
+        <g id="Graphic_258">
+          <rect x="185" y="-1799.4407" width="270" height="38.125" fill="#f5f3f7"/>
+          <rect x="185" y="-1799.4407" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1789.1399)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">API style</tspan>
+          </text>
+        </g>
+        <g id="Graphic_257">
+          <rect x="455" y="-1837.5657" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1837.5657" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1827.265)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">No</tspan>
+          </text>
+        </g>
+        <g id="Graphic_256">
+          <rect x="725" y="-1837.5657" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1837.5657" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1827.265)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Datomic Cloud</tspan>
+          </text>
+        </g>
+        <g id="Graphic_255">
+          <rect x="185" y="-1837.5657" width="270" height="38.125" fill="#f5f3f7"/>
+          <rect x="185" y="-1837.5657" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1827.265)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Remote client/server</tspan>
+          </text>
+        </g>
+        <g id="Graphic_254">
+          <rect x="725" y="-1875.6907" width="270" height="38.125" fill="white"/>
+          <rect x="725" y="-1875.6907" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1874.1516)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Datomic Cloud (via ions), Datomic </tspan>
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="31.523438" xml:space="preserve">Local</tspan>
+          </text>
+        </g>
+        <g id="Graphic_253">
+          <rect x="455" y="-1875.6907" width="270" height="38.125" fill="white"/>
+          <rect x="455" y="-1875.6907" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1865.39)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Datomic Pro only</tspan>
+          </text>
+        </g>
+        <g id="Graphic_252">
+          <rect x="185" y="-1875.6907" width="270" height="38.125" fill="#f5f3f6"/>
+          <rect x="185" y="-1875.6907" width="270" height="38.125" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1865.39)" fill="black">
+            <tspan font-family="Arial" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Process local</tspan>
+          </text>
+        </g>
+        <g id="Graphic_251">
+          <title>Rectangle</title>
+          <rect x="185" y="-1903.214" width="270" height="27.523438" fill="#e2e0e3"/>
+          <rect x="185" y="-1903.214" width="270" height="27.523438" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(190 -1898.214)" fill="black">
+            <tspan font-family="Arial" font-weight="bold" font-size="16" fill="black" x="0" y="14" xml:space="preserve">Key differences</tspan>
+          </text>
+        </g>
+        <g id="Graphic_250">
+          <rect x="455" y="-1903.214" width="270" height="27.523438" fill="#e2e0e3"/>
+          <rect x="455" y="-1903.214" width="270" height="27.523438" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_249">
+          <rect x="725" y="-1903.214" width="270" height="27.523438" fill="#e2e0e3"/>
+          <rect x="725" y="-1903.214" width="270" height="27.523438" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_248">
+          <rect x="725" y="-1941.339" width="270" height="38.125" fill="#c3c2c4"/>
+          <rect x="725" y="-1941.339" width="270" height="38.125" stroke="#606060" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(730 -1933.6038)" fill="black">
+            <tspan font-family="Arial" font-weight="bold" font-size="20" fill="black" x="0" y="18" xml:space="preserve">Client</tspan>
+          </text>
+        </g>
+        <g id="Graphic_247">
+          <title>Rectangle</title>
+          <rect x="455" y="-1941.339" width="270" height="38.125" fill="#c3c2c4"/>
+          <rect x="455" y="-1941.339" width="270" height="38.125" stroke="#050505" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(460 -1933.6038)" fill="black">
+            <tspan font-family="Arial" font-weight="bold" font-size="20" fill="black" x="0" y="18" xml:space="preserve">Peer</tspan>
+          </text>
+        </g>
+        <g id="Graphic_245">
+          <rect x="185" y="-1941.339" width="270" height="38.125" fill="#c3c2c4"/>
+          <rect x="185" y="-1941.339" width="270" height="38.125" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_294">
+        <rect x="184" y="-1984.339" width="810" height="43" fill="white"/>
+        <text transform="translate(189 -1976.7317)" fill="#2b7400">
+          <tspan font-family="Arial" font-weight="bold" font-size="24" fill="#2b7400" x="195.07422" y="22" xml:space="preserve">Comparison of Peer and Client APIs</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
